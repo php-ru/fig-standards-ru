@@ -19,3 +19,6 @@ Naming conventions for code released by PHP FIG
 8. Special lighweight utility packages MAY be produced alongside PSRs and
    interfaces and be maintained and updated after the PSR has been accepted. These
    MUST be under the vendor namespace `Fig`.
+
+<!-- ready: no -->
+<!-- revision: 49b93d55188dadbb09fd7147a62cf5dab925fdea -->

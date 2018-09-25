@@ -73,3 +73,6 @@ as part of the specification and MAY change at any time.
 [autoloading]: http://php.net/autoload
 [PSR-0]: https://github.com/php-fig/fig-standards/blob/master/accepted/PSR-0.md
 [examples file]: https://github.com/php-fig/fig-standards/blob/master/accepted/PSR-4-autoloader-examples.md
+
+<!-- ready: no -->
+<!-- revision: f763070c718aeb0e1a3c953ad99682ea2e994c5d -->

@@ -128,3 +128,6 @@ interface MiddlewareInterface
     public function process(ServerRequestInterface $request, RequestHandlerInterface $handler): ResponseInterface;
 }
 ```
+
+<!-- ready: no -->
+<!-- revision: 820e3611cc1b9a2c849a46b8fb196633b683bcd8 -->

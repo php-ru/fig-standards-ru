@@ -71,3 +71,5 @@ use contact forms.
 If not specified otherwise, the ``contact email address`` is ``security@[project domain]``.
 
 **TODO**: Add more things noted in the previous section
+<!-- ready: no -->
+<!-- revision: bd185e30bab6dc15c3afcfb7de0407dbff51cf14 -->

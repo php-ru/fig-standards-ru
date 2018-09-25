@@ -81,3 +81,6 @@ domain object that is producing them.
 
 * [What's in a link?](http://evertpot.com/whats-in-a-link/) by Evert Pot
 * [FIG Link Working Group List](https://groups.google.com/forum/#!forum/php-fig-link)
+
+<!-- ready: no -->
+<!-- revision: 06ae7c37866c57e2f12d391bc31dcf6af421dfa9 -->

@@ -14,3 +14,6 @@ Licensing Policies
 All remaining non-code items must be licensed under the Creative Commons BY 3.0
 license. Attribution policies will be defined in the bylaws based on the type
 of asset created.
+
+<!-- ready: no -->
+<!-- revision: f763070c718aeb0e1a3c953ad99682ea2e994c5d -->

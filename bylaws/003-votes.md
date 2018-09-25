@@ -88,3 +88,6 @@ For the Core Committee vote, Core Committee members may vote, either For (+1), A
 For the Project Representative vote, Project Representatives may vote, either For (+1), Against (-1), or Abstain (+0). There is no quorum. A 50% majority is required for passage.
 
 Both the Core Committee and Project Representative votes must pass for the Vote to be approved. If an individual is serving as both a Project Representative and Core Committee member, they are ineligible to vote in the Project Representative vote.
+
+<!-- ready: no -->
+<!-- revision: c4214ab0e1af0ec9668130f4c1b1bfd8482dae72 -->

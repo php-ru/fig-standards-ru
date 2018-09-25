@@ -65,3 +65,6 @@ Once a PSR is in "Abandoned" stage it may only once again be moved to Draft afte
 ## Project Referendum
 
 At any time the Editor of a PSR in Draft or Review Phase may call for a non-binding Referendum of Project Representatives on the current state of a PSR.  Such a Referendum may be called multiple times if appropriate as the PSR evolves, or never, at the Editor's discretion.  The Core Committee may also require such a Referendum as a condition of an Acceptance Vote if appropriate.  Referendum results are non-binding but the Working Group and Core Committee are expected to give the results due consideration.
+
+<!-- ready: no -->
+<!-- revision: 49b93d55188dadbb09fd7147a62cf5dab925fdea -->

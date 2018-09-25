@@ -1350,3 +1350,6 @@ class Foo
 [PHP_SUBSTR]:   https://php.net/manual/function.substr.php
 [SPDX]:         https://www.spdx.org/licenses
 [PHPDOC_PSR]:   TDB
+
+<!-- ready: no -->
+<!-- revision: 7e38da7aad442bef1fa930e6621d5c7ad79beccb -->

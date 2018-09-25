@@ -90,3 +90,6 @@ https://groups.google.com/d/msg/php-fig-psr-9-discussion/puGV_X0bj_M/Jr_IAS40Sts
 
 7. Relevant Links
 -----------------
+
+<!-- ready: no -->
+<!-- revision: d550437399346d5b2549fca5b6605c86ceaed2f0 -->

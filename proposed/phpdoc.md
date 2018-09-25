@@ -798,3 +798,6 @@ The following keywords are recognized by this PSR:
 [FLUENT]:       https://en.wikipedia.org/wiki/Fluent_interface
 [COLLECTION]:   https://en.wikipedia.org/wiki/Collection_(abstract_data_type)
 [TAG_PSR]:      TBD
+
+<!-- ready: no -->
+<!-- revision: 7285e602f433744e3754e239d63e35f54bcd8c5e -->

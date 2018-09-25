@@ -274,3 +274,6 @@ to strip the leading namespace separator could lead to unexpected behavior.
 - [Towards a Package Oriented Autoloader](https://groups.google.com/forum/#!searchin/php-fig/package$20oriented$20autoloader/php-fig/JdR-g8ZxKa8/jJr80ard-ekJ)
 - [List of Alternative PSR-4 Proposals](https://groups.google.com/forum/#!topic/php-fig/oXr-2TU1lQY)
 - [Summary of [post-Acceptance Vote pull] PSR-4 discussions](https://groups.google.com/forum/#!searchin/php-fig/psr-4$20summary/php-fig/bSTwUX58NhE/YPcFgBjwvpEJ)
+
+<!-- ready: no -->
+<!-- revision: 3c4d8d0e2de3c629e6a849e81d368f392d944efd -->

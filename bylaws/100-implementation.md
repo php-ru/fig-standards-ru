@@ -13,3 +13,6 @@ All previously-approved PSRs will remain approved with no change, and will retai
 The Editor of any PSR that is in Draft or Needs Review state will have a time limit from the time the Core Committee is seated to form an official Working Group, as defined in these bylaws. If a 5-member working group is formed then the PSR will automatically continue under these rules with no need for re-approval or re-entry. If the 5-member Working Group cannot be formed in that time then the PSR will automatically be listed as Abandoned. The exact timetable will be announced by the Secretaries.
 
 This bylaw (100) may be removed by the Secretaries when it is deemed no longer necessary to be kept and the transition to the new structure is complete.
+
+<!-- ready: no -->
+<!-- revision: e9096be7bf0d1f8fe540499ac3713cf27765930d -->

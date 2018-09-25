@@ -342,3 +342,6 @@ interface EvolvableLinkProviderInterface extends LinkProviderInterface
     public function withoutLink(LinkInterface $link);
 }
 ~~~
+
+<!-- ready: no -->
+<!-- revision: f763070c718aeb0e1a3c953ad99682ea2e994c5d -->

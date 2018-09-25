@@ -71,3 +71,6 @@ Most of the relevant links are mentioned in the PSR itself as support for indivi
 _**Note:** Order descending chronologically._
 
 * [Original draft](https://github.com/phpDocumentor/phpDocumentor2/commit/0dbdbfa318d197279b414e5c0d1ffb142b31a528#docs/PSR.md)
+
+<!-- ready: no -->
+<!-- revision: cc3323ee1f26d88687dee03137dbbf3e53e375c0 -->

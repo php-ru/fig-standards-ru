@@ -68,3 +68,6 @@ For being an early reviewer
 * [Survey of existing cache implementations][1], by @dragoonis
 
 [1]: https://docs.google.com/spreadsheet/ccc?key=0Ak2JdGialLildEM2UjlOdnA4ekg3R1Bfeng5eGlZc1E#gid=0
+
+<!-- ready: no -->
+<!-- revision: 9655c0ef730cc37ee1df61ef9844d264a7be4a2c -->

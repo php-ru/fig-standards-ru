@@ -82,3 +82,6 @@ other people to build centralized tools around this information.
 
 Initial discussion: https://groups.google.com/d/msg/php-fig/45AIj5bPHJ4/ThERB43j-u8J
 Discussion: https://groups.google.com/forum/#!forum/php-fig-psr-9-discussion
+
+<!-- ready: no -->
+<!-- revision: f763070c718aeb0e1a3c953ad99682ea2e994c5d -->

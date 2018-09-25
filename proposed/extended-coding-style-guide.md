@@ -847,10 +847,10 @@ try {
 ## 6. Operators
 
 All binary and ternary (but not unary) operators MUST be preceded and followed by at least
-one space. This includes all [arithmetic][], [comparison][], [assignment][], [bitwise][],
-[logical][] (excluding `!` which is unary), [string concatenation][], [type][] operators,
-trait operators (`insteadof` and `as`), and the single pipe operator (e.g.
-`ExceptionType1 | ExceptionType2 $e`).
+one space; multiple spaces MAY be used for readabiliy purpose. This includes all [arithmetic][],
+[comparison][], [assignment][], [bitwise][], [logical][] (excluding `!` which is unary),
+[string concatenation][], [type][] operators, trait operators (`insteadof` and `as`),
+and the single pipe operator (e.g. `ExceptionType1 | ExceptionType2 $e`).
 
 Other operators are left undefined.
 
@@ -985,20 +985,20 @@ in the above section.
 $instance = new class {};
 ~~~
 
-The opening parenthesis MAY be on the same line as the `class` keyword so long as
+The opening brace MAY be on the same line as the `class` keyword so long as
 the list of `implements` interfaces does not wrap. If the list of interfaces
-wraps, the parenthesis MUST be placed on the line immediately following the last
+wraps, the brace MUST be placed on the line immediately following the last
 interface.
 
 ~~~php
 <?php
 
-// Parenthesis on the same line
+// Brace on the same line
 $instance = new class extends \Foo implements \HandleableInterface {
     // Class content
 };
 
-// Parenthesis on the next line
+// Brace on the next line
 $instance = new class extends \Foo implements
     \ArrayAccess,
     \Countable,
@@ -1019,3 +1019,6 @@ $instance = new class extends \Foo implements
 [logical]: http://php.net/manual/en/language.operators.logical.php
 [string concatenation]: http://php.net/manual/en/language.operators.string.php
 [type]: http://php.net/manual/en/language.operators.type.php
+
+<!-- ready: no -->
+<!-- revision: 7cadbb451ac8eb236315fd604fab5bad0dbe5dc2 -->

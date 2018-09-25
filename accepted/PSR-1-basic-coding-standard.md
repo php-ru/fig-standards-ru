@@ -163,3 +163,6 @@ or method-level.
 ### 4.3. Methods
 
 Method names MUST be declared in `camelCase()`.
+
+<!-- ready: no -->
+<!-- revision: f763070c718aeb0e1a3c953ad99682ea2e994c5d -->

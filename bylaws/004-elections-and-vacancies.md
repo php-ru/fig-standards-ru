@@ -55,3 +55,6 @@ Should the vacancy occur less than four months before the next regular election 
 Should a Core Committee member resign or be removed due to a Recall Vote, the Secretaries shall call a special election for a new Core Committee member following the same protocols as for a normal election. The newly elected Core Committee member will serve out the remainder of the term for the seat filled.
 
 Should the vacancy occur less than four months before the next regular election month, the seat may be left vacant until the next election at the discretion of the Secretaries and Core Committee. In that case, the fifth-highest voted candidate will assume the available seat with less time remaining in its term.
+
+<!-- ready: no -->
+<!-- revision: ef6949171adcf65422dbee79181e04fef70ae0f3 -->

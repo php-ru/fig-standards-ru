@@ -348,3 +348,6 @@ class Psr4AutoloaderClassTest extends \PHPUnit_Framework_TestCase
     }
 }
 ~~~
+
+<!-- ready: no -->
+<!-- revision: df0d0f4bc5b5bef1ac62b71f1731d6ba0c499524 -->

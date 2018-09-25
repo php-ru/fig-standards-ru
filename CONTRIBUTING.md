@@ -76,3 +76,6 @@ All tags should be PGP signed.
 
 A changelog should be provided including a list of changes, crediting the
 contributor and referencing the pull request/issue.
+
+<!-- ready: no -->
+<!-- revision: a6869ddaff9703c39f51111e929a0e9ae8572a78 -->

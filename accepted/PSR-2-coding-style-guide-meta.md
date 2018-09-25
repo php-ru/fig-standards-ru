@@ -38,3 +38,6 @@ $app->get('/hello/{name}', function ($name) use ($app) {
 
 When extending multiple interfaces, the list of `extends` should be treated the same as a list
 of `implements`, as declared in Section 4.1.
+
+<!-- ready: no -->
+<!-- revision: f763070c718aeb0e1a3c953ad99682ea2e994c5d -->

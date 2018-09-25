@@ -378,3 +378,6 @@ Are listed here all people that contributed in the discussions or votes (on cont
 1. <a name="link_base_exception_usefulness"></a>[Discussion about the usefulness of the base exception](https://groups.google.com/forum/#!topic/php-fig/_vdn5nLuPBI)
 1. <a name="link_not_found_behaviour"></a>[Discussion about the `NotFoundExceptionInterface`](https://groups.google.com/forum/#!topic/php-fig/I1a2Xzv9wN8)
 1. <a name="link_get_optional_parameters"></a>Discussion about get optional parameters [in container-interop](https://github.com/container-interop/container-interop/issues/6) and on the [PHP-FIG mailing list](https://groups.google.com/forum/#!topic/php-fig/zY6FAG4-oz8)
+
+<!-- ready: no -->
+<!-- revision: 0ea2da27c32483c1d08baca361542ba051455fd0 -->

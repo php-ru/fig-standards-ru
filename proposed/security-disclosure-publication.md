@@ -94,3 +94,6 @@ In addition the following tags are added:
 [3] http://www.icasi.org/cvrf-1.1-dictionary
 [4] security-disclosure-publication.xsd
 [5] https://getcomposer.org/doc/01-basic-usage.md#package-versions
+
+<!-- ready: no -->
+<!-- revision: b6a41c24cb134b3de25d6a3b1224ef3eb609354a -->

@@ -84,3 +84,6 @@ The Editor of a PSR is an individual who is actively involved in managing and tr
 ### Sponsor
 
 A PSR must be sponsored by a member of the Core Committee. That individual is the Sponsor. The Sponsor may not also be the Editor. One person may be the sponsor on multiple PSRs and they provide a level of oversight on the PSR's drafting on behalf of the Core Committee, and representation of the PSR Working Group to the Core Committee. Multiple other Core Committee members may also be on the working group if they wish.
+
+<!-- ready: no -->
+<!-- revision: 49b93d55188dadbb09fd7147a62cf5dab925fdea -->
