@@ -173,27 +173,27 @@ interpreted as described in [RFC 2119][RFC2119].
 
   The following notations can be used per type of "Structural Element":
 
-  *Namespace*:      `\My\Space`
-  *Function*:       `\My\Space\myFunction()`
-  *Constant*:       `\My\Space\MY_CONSTANT`
-  *Class*:          `\My\Space\MyClass`
-  *Interface*:      `\My\Space\MyInterface`
-  *Trait*:          `\My\Space\MyTrait`
-  *Method*:         `\My\Space\MyClass::myMethod()`
-  *Property*:       `\My\Space\MyClass::$my_property`
-  *Class Constant*: `\My\Space\MyClass::MY_CONSTANT`
+  - *Namespace*:      `\My\Space`
+  - *Function*:       `\My\Space\myFunction()`
+  - *Constant*:       `\My\Space\MY_CONSTANT`
+  - *Class*:          `\My\Space\MyClass`
+  - *Interface*:      `\My\Space\MyInterface`
+  - *Trait*:          `\My\Space\MyTrait`
+  - *Method*:         `\My\Space\MyClass::myMethod()`
+  - *Property*:       `\My\Space\MyClass::$my_property`
+  - *Class Constant*: `\My\Space\MyClass::MY_CONSTANT`
 
   A FQSEN has the following [ABNF][RFC5234]
   definition:
 
-          FQSEN    = fqnn / fqcn / constant / method / property  / function
-          fqnn     = "\" [name] *("\" [name])
-          fqcn     = fqnn "\" name
-          constant = (fqnn "\" / fqcn "::") name
-          method   = fqcn "::" name "()"
-          property = fqcn "::$" name
-          function = fqnn "\" name "()"
-          name     = (ALPHA / "_") *(ALPHA / DIGIT / "_")
+      FQSEN    = fqnn / fqcn / constant / method / property  / function
+      fqnn     = "\" [name] *("\" [name])
+      fqcn     = fqnn "\" name
+      constant = (fqnn "\" / fqcn "::") name
+      method   = fqcn "::" name "()"
+      property = fqcn "::$" name
+      function = fqnn "\" name "()"
+      name     = (ALPHA / "_") *(ALPHA / DIGIT / "_")
 
 ## 4. Basic Principles
 
@@ -800,4 +800,4 @@ The following keywords are recognized by this PSR:
 [TAG_PSR]:      TBD
 
 <!-- ready: no -->
-<!-- revision: 7285e602f433744e3754e239d63e35f54bcd8c5e -->
+<!-- revision: ad321173139a3250ecd5168f0e964283af7fa7b0 -->

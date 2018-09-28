@@ -57,8 +57,8 @@ status codes in the 400 and 500 range MUST NOT cause an exception and MUST be re
 A Client MUST throw an instance of `Psr\Http\Client\ClientExceptionInterface` if and only if it is unable to send
 the HTTP request at all or if the HTTP response could not be parsed into a PSR-7 response object.
 
-If a request cannot be sent because the request message is not a valid HTTP request, the Client MUST throw an instance
-of `Psr\Http\Client\RequestExceptionInterface`.
+If a request cannot be sent because the request message is not well-formed HTTP request or is missing some critical
+piece of information (such as a Host or Method), the Client MUST throw an instance of `Psr\Http\Client\RequestExceptionInterface`.
 
 If the request cannot be sent due to a network failure of any kind, including a timeout, the Client MUST throw an
 instance of `Psr\Http\Client\NetworkExceptionInterface`.
@@ -161,4 +161,4 @@ interface NetworkExceptionInterface extends ClientExceptionInterface
 [Liskov]: https://en.wikipedia.org/wiki/Liskov_substitution_principle
 
 <!-- ready: no -->
-<!-- revision: 018250fd4acfe72771182a8b611f82d712be4a44 -->
+<!-- revision: 00b5476eee0dfc1a0105186c609dc2b0c063bf40 -->
